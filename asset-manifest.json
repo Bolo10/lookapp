@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lookapp/static/css/main.ce268364.css",
+    "main.js": "/lookapp/static/js/main.e4758588.js",
+    "static/media/banner2.jpg": "/lookapp/static/media/banner2.c2f72436bb9ffd6a2b06.jpg",
+    "static/media/bolo-white.png": "/lookapp/static/media/bolo-white.ecdb7488ff5d2caef25e.png",
+    "static/media/isometric.webp": "/lookapp/static/media/isometric.0e84fb3733104efd405a.webp",
+    "index.html": "/lookapp/index.html",
+    "main.ce268364.css.map": "/lookapp/static/css/main.ce268364.css.map",
+    "main.e4758588.js.map": "/lookapp/static/js/main.e4758588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce268364.css",
+    "static/js/main.e4758588.js"
+  ]
+}
